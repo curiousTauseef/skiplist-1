@@ -1,5 +1,7 @@
 Skiplist
+
 Copyright (C) 1990 Matthew Clegg.  All rights reserved.
+
 This code is made available under the GNU Public License (version 3).
 
 This file repository contains a C implementation of the skiplist
